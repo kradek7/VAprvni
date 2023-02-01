@@ -36,3 +36,10 @@ karty_dealera = []
 balicek = [{"barva": barva, "hodnota": hodnota} for barva in barvy for hodnota in hodnoty]
 
 random.shuffle(balicek)
+return balicek
+
+
+def displayHands (playerHand, dealerHand, showDealerHand) :
+    print()
+    if showDealerHand;
+
